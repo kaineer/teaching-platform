@@ -1,0 +1,19 @@
+{
+  "name": "teaching-platform",
+  "version": "1.0.0",
+  "description": "There's something I want to teach to",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "2.5.3",
+    "chai": "^3.5.0",
+
+    "babel-core": "6.14.0",
+    "babel-preset-es2015": "6.14.0"
+
+  },
+  "author": "Tangerine Cat <kaineer@gmail.com>",
+  "license": "MIT"
+}

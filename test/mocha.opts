@@ -1,0 +1,4 @@
+--recursive
+--reporter dot
+--compilers js:babel-core/register
+-G
